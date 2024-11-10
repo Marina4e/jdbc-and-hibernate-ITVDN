@@ -1,0 +1,9 @@
+*.class
+target/
+*.iws
+*.iml
+*.ipr
+.idea/
+mvnw/
+.gitattributes
+HELP.md
